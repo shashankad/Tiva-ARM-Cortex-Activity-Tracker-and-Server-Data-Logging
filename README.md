@@ -1,2 +1,4 @@
 # Tiva-ARM-Cortex-Activity-Tracker-and-Server-Data-Logging
+#Author: Shashanka Doddamani
+#ID    : shashankad92@gmail.com
 In today’s world wearable technology is changing the life of people like never before. Range of activity trackers are available with different functionality. In this project a smart sleep alert system capable of live data streaming to a third party server has been explored. The system uses a three axis accelerometer to track the user’s activity and stream the data to the computer later to the server. Based on the previous readings of accelerometer the controller detects whether the user is idle or awake. The system will alarm the user until he/she performs a predefined hand gesture, thereby ensuring users minimum activity and conclude that he/she is awake. This device can be used while driving, working, and during the time people get sleep without their notice.
